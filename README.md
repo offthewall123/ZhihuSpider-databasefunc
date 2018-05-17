@@ -1,2 +1,1 @@
-# ZhihuSpider
-ZhihuSpider
+爬取数据存到mysql中，其中Answer字段太长，所以还是直接保存到txt文件比较合适，使用mybatis框架
